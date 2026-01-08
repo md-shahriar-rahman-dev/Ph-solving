@@ -3,3 +3,6 @@ function isPalindrome(str) {
     const reversed = cleanStr.split("").reverse().join("");
     return cleanStr === reversed;
 }
+
+console.log(isPalindrome("madam")); 
+console.log(isPalindrome("hello"));

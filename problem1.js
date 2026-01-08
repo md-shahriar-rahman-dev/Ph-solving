@@ -5,3 +5,5 @@ function reverseString(str) {
     }
     return reversed;
 }
+
+console.log(reverseString("hello")); // Output: "olleh"

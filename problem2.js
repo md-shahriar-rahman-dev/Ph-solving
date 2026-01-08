@@ -9,3 +9,4 @@ function countVowels(str) {
     }
     return count;
 }
+console.log(countVowels("programming")); // Output: 3

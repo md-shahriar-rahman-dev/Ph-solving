@@ -8,3 +8,4 @@ function capitalizeWords(str) {
 
   return result.join(" ");
 }
+console.log(capitalizeWords("hello world from javascript"));
